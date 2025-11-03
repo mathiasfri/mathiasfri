@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mathias Fridthjof (@mathiasfri)
 - 👀 I’m interested in backend programming and software developing.
-- 🌱 I’m currently studying computer science and learning Java, HTML, CSS, SQL, JavaScript and Python.
+- 🌱 I’m currently working fulltime as a Software Developer with focus on Java Spring, Angular TS (with PrimeNG) and Dart (Flutter).
 - 💞️ I’m looking to collaborate on - I'm open for anything.
 - 📫 How to reach me - mathiasfridthjof@live.dk
 
